@@ -1,0 +1,13 @@
+[package]
+name = "ffzf"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "A Faster Fuzzy File finder build with rust"
+version = "0.1.0"
+license = "APACHE-2.0/MIT"
+repository = "https://github.com/mgattozzi/ffzf.git"
+homepage = "https://github.com/mgattozzi/ffzf"
+
+[dependencies]
+error-chain = "0.10.0"
+crossbeam = "0.2.0"
